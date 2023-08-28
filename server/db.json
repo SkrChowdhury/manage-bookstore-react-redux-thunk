@@ -1,0 +1,58 @@
+{
+  "books": [
+    {
+      "name": "Slow Horses (Deluxe Edition)",
+      "author": "Vung Chung",
+      "thumbnail": "https://m.media-amazon.com/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg",
+      "price": 14,
+      "rating": 3,
+      "featured": false,
+      "id": 1
+    },
+    {
+      "name": "The Last Thing He Told Me: A Novel",
+      "author": "Sujon Ali",
+      "thumbnail": "https://m.media-amazon.com/images/P/1501171348.01._SCLZZZZZZZ_SX500_.jpg",
+      "price": "139.99",
+      "rating": 4,
+      "featured": true,
+      "id": 2
+    },
+    {
+      "featured": true,
+      "name": "The History of Quran",
+      "author": "Sujon Ali",
+      "thumbnail": "https://m.media-amazon.com/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg",
+      "price": "1000",
+      "rating": "5",
+      "id": 5
+    },
+    {
+      "featured": false,
+      "name": "The Last Thing He Told Me: A Novel",
+      "author": "Sumit Saha",
+      "thumbnail": "https://m.media-amazon.com/images/I/51InjRPaF7L._SX377_BO1,204,203,200_.jpg",
+      "price": "500",
+      "rating": "3",
+      "id": 6
+    },
+    {
+      "featured": false,
+      "name": "The History of Quran",
+      "author": "Sujon Ali",
+      "thumbnail": "https://m.media-amazon.com/images/I/51InjRPaF7L._SX377_BO1,204,203,200_.jpg",
+      "price": "5555",
+      "rating": "5",
+      "id": 7
+    },
+    {
+      "featured": true,
+      "name": "T-Shirt",
+      "author": "Sujon Ali",
+      "thumbnail": "https://m.media-amazon.com/images/P/1501171348.01._SCLZZZZZZZ_SX500_.jpg",
+      "price": "100",
+      "rating": "2",
+      "id": 8
+    }
+  ]
+}
